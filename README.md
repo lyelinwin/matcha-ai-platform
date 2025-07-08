@@ -37,8 +37,8 @@ This project demonstrates how aritificla intelligence and machine learning can b
   - data/ # Raw and processed datasets
   - notebooks/ # Jupyter notebooks for exploration
   -  src/ # Python scripts
-    - ml_models/ # ML models (sales prediction, recommendation)
-    - nlp_models/ # Social trend analysis
+      - ml_models/ # ML models (sales prediction, recommendation)
+      - nlp_models/ # Social trend analysis
   - dashboard/ # Streamlit/Dash frontend
   - utils/ # Helper functions
   - requirements.txt # Python dependencies
