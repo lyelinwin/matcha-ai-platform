@@ -1,0 +1,26 @@
+CustomerID,Drink,Orders
+C001,Iced Matcha Latte,5
+C001,Strawberry Matcha,3
+C001,Vanilla Matcha Latte,2
+C002,Matcha Lemonade,4
+C002,Hot Matcha Latte,1
+C002,Matcha Cold Foam Cold Brew,2
+C003,Hot Matcha Latte,6
+C003,Iced Matcha Latte,3
+C004,Vanilla Matcha Latte,5
+C004,Strawberry Matcha,2
+C004,Matcha Lemonade,1
+C005,Matcha Cold Foam Cold Brew,4
+C005,Hot Matcha Latte,2
+C006,Iced Matcha Latte,7
+C006,Vanilla Matcha Latte,4
+C006,Strawberry Matcha,2
+C007,Matcha Lemonade,3
+C007,Matcha Cold Foam Cold Brew,1
+C008,Hot Matcha Latte,3
+C008,Vanilla Matcha Latte,2
+C008,Iced Matcha Latte,1
+C009,Strawberry Matcha,5
+C009,Matcha Lemonade,2
+C010,Vanilla Matcha Latte,4
+C010,Iced Matcha Latte,3
